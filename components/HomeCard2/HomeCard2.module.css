@@ -1,0 +1,28 @@
+.card_container {
+  padding: 9px 23px;
+  max-width: 232px;
+  display: flex;
+  flex-direction: column;
+  gap: 15.5px;
+  border-radius: 10px;
+  position: relative;
+  cursor: pointer;
+}
+.card_container > * {
+  margin: 0;
+}
+.card_container > h5 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #171717;
+}
+.card_container > p {
+  font-size: 14px;
+  color: #3a3a3a;
+}
+.card_container img {
+  width: 32px;
+  position: absolute;
+  bottom: 9px;
+  right: 23px;
+}

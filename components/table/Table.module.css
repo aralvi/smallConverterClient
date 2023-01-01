@@ -1,0 +1,9 @@
+@media only screen and (max-width: 520px) {
+    th.hide {
+        display: none !important;
+    }
+
+    td.hidden {
+        display: none !important;
+    }
+}

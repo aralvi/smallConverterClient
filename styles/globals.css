@@ -1,0 +1,214 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+html {
+  scroll-behavior: smooth !important;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+a,
+a:hover,
+a:visited {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+button:disabled,
+input:disabled {
+  cursor: not-allowed !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                   Heights                                  */
+/* -------------------------------------------------------------------------- */
+.h-169 {
+  height: 169px !important;
+}
+
+/* .h-35{
+  height: 35rem !important;
+} */
+.vh-75 {
+  min-height: 75vh !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                    width                                   */
+/* -------------------------------------------------------------------------- */
+
+.w-15 {
+  width: 15rem !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                   margin                                   */
+/* -------------------------------------------------------------------------- */
+
+.top-30 {
+  top: -30px !important;
+}
+
+.left-50 {
+  left: 50px !important;
+}
+
+.left-35 {
+  left: 35px !important;
+}
+
+.ml-135 {
+  margin-left: 135px !important;
+}
+
+.pt-24 {
+  padding-top: 24px;
+}
+
+.mb-115 {
+  margin-bottom: 115px !important;
+}
+.mb-10 {
+  margin-bottom: 10px !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                   Colors                                   */
+/* -------------------------------------------------------------------------- */
+.cl-537895 {
+  color: #537895;
+}
+.bg-light {
+  background-color: #f9f9f9 !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                              background colors                             */
+/* -------------------------------------------------------------------------- */
+.bg-537895 {
+  background-color: #537895 !important;
+}
+
+.bg-F9FDFF {
+  background-color: #f9fdff !important;
+}
+
+.bg-F6FFFA {
+  background-color: #f6fffa !important;
+}
+
+.bg-FFF9F5 {
+  background-color: #fff9f5 !important;
+}
+
+.bg-FFEDDE {
+  background-color: #ffedde !important;
+}
+
+.bg-F9F9F9 {
+  background-color: #f9f9f9 !important;
+}
+
+.bg-FCF6FF {
+  background-color: #fcf6ff !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                  other css                                 */
+/* -------------------------------------------------------------------------- */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.rotate-x-180 {
+  transform: rotateX(180deg);
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+.conversion-steps {
+  align-items: flex-start;
+}
+
+@media screen and (max-width: 768px) {
+  .conversion-steps {
+    align-items: center;
+  }
+}
+
+/* -------------------------------------------------------------------------- */
+/*                              progress bar css                              */
+/* -------------------------------------------------------------------------- */
+
+.progress-bar {
+  background-color: #537895;
+}
+
+/* ============ Testimonial Carousel ============ */
+.swiper {
+  height: 440px !important;
+}
+
+.swiper-pagination {
+  text-align: left !important;
+}
+
+.swiper-pagination-bullet {
+  width: 10px !important;
+  height: 10px !important;
+  margin-left: 2px !important;
+  margin-right: 2px !important;
+  background-color: #fcf6ff !important;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  height: 18px !important;
+  width: 18px !important;
+  border-radius: 2px !important;
+  background-color: #fff;
+  position: absolute !important;
+  top: auto !important;
+  left: auto !important;
+  bottom: 12px !important;
+  z-index: 15 !important;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  color: #537895;
+  font-size: 0.65rem !important;
+}
+
+.swiper-button-prev {
+  right: 21px !important;
+}
+
+.swiper-button-next {
+  right: 0px !important;
+}
+
+@media screen and (max-width: 520px) {
+  .swiper-pagination {
+    bottom: 20px !important;
+  }
+  .swiper-button-prev,
+  .swiper-button-next {
+    width: 23px !important;
+    bottom: 22px !important;
+  }
+  .swiper-button-prev {
+    right: 26px !important;
+  }
+
+  .swiper-button-next {
+    right: 0px !important;
+  }
+}
+
+/* ============ Carousel End ============ */

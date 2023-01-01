@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="Group_787" data-name="Group 787" transform="translate(-1456 -2533)">
+    <g id="Ellipse_227" data-name="Ellipse 227" transform="translate(1456 2533)" fill="none" stroke="#537895" stroke-width="1">
+      <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+      <circle cx="17.5" cy="17.5" r="17" fill="none"/>
+    </g>
+    <g id="twitter" transform="translate(1463.628 2539.104)">
+      <g id="Layer_2" data-name="Layer 2" transform="translate(0.872 3.398)">
+        <g id="Layer_1" data-name="Layer 1">
+          <path id="Path_279" data-name="Path 279" d="M19.2,7.183c-.139.206-.239.488-.419.61-1.151.762-1.2,1.972-1.338,3.225C16.5,19.2,8,23.6,1.282,19.349A8.393,8.393,0,0,0,6.414,17.57c-1.915-.478-2.9-1.319-3.305-2.8l1.525-.1a4.215,4.215,0,0,1-2.942-3.947l1.57.384A4.444,4.444,0,0,1,2.244,5.778a10.968,10.968,0,0,0,5.5,3.771c.73.208,1.491.3,2.331.457a4.574,4.574,0,0,1,.56-3.215,3.547,3.547,0,0,1,5.213-1.067,1.582,1.582,0,0,0,1.833.2c.352-.15.7-.313,1.046-.47l.168.152L17.61,7.483l1.5-.4a.765.765,0,0,0,.091.1Z" transform="translate(-1.282 -4.997)" fill="#537895"/>
+          <path id="Path_280" data-name="Path 280" d="M49.032,10.226l.178-.021-.08.132a.8.8,0,0,1-.1-.111Z" transform="translate(-31.211 -8.103)" fill="#537895"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

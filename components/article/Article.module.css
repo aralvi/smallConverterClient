@@ -1,0 +1,83 @@
+.ArtHeading {
+    margin-top: 40px;
+    font: normal normal bold 36px Lato;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    line-height: 42px;
+}
+
+.ArtDetails {
+    margin-top: 15px;
+    font: normal normal normal 16pxLato;
+    letter-spacing: 0px;
+    color: #808080;
+    opacity: 1;
+    line-height: 19px;
+}
+
+.ArtText {
+
+    line-height: 20px;
+    text-align: left;
+    font: normal normal normal 16dp/20dp Lato;
+    letter-spacing: 0dp;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.StepsHeading {
+    margin-top: 20px;
+    line-height: 29px;
+    text-align: left;
+    font: bold 24px Lato;
+    letter-spacing: 0dp;
+    color: #171717;
+    opacity: 1;
+}
+
+.stepList {
+    line-height: 19px !important;
+    text-align: left;
+    font: normal normal normal 16px Lato;
+    letter-spacing: 0dp;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.SectHeading {
+    font: normal normal bold 34px Lato;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    line-height: 44px;
+}
+
+.SectText {
+    font: normal normal normal 16px Lato;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    line-height: 24px;
+}
+
+.sectText {
+    line-height: 30px !important;
+    text-align: center;
+    font: normal normal normal 16 Lato;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+@media only screen and (max-width: 520px) {
+    h1.ArtHeading {
+        margin-top: 50px !important;
+        font-size: 18px;
+    }
+
+    img.contain {
+        height: 100px;
+    }
+
+}

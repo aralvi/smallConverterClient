@@ -1,0 +1,25 @@
+.AccordianBodyBg {
+    background-color: #F9F9F9;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.accordion-button {
+    background-color: white !important;
+    color: black !important;
+}
+
+.AccordianTitle {
+    text-align: left;
+    font: normal normal bold 18px Lato;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    margin-left: 1.4rem;
+    margin-bottom: -1rem;
+}

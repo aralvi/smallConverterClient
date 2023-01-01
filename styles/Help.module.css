@@ -1,0 +1,41 @@
+.heading {
+    text-align: center;
+    font: bold 36px Lato;
+    letter-spacing: 0px;
+    color: #171717;
+    line-height: 30px;
+
+}
+
+.subheading {
+    text-align: center;
+    font: normal normal normal 20px Lato;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    line-height: 30px;
+}
+
+.mailHeading {
+
+    font: normal normal normal 18px/22px Lato;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.mailSubTitle {
+
+    font: normal normal normal 16px/19px Lato;
+    letter-spacing: 0px;
+    color: #B5B5B5;
+    opacity: 1;
+}
+
+@media only screen and (max-width: 480px) {
+    h1.heading {
+        font-size: 28px;
+        margin-top: 40px;
+    }
+
+
+}

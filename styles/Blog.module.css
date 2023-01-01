@@ -1,0 +1,40 @@
+.containerBg {
+    background-color: #F9F9F9 !important;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.SectHeading {
+    font: normal normal bold 34px Lato;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    line-height: 44px;
+}
+
+.SectText {
+    font: normal normal normal 16px Lato;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    line-height: 24px;
+}
+
+.sectText {
+    line-height: 30px !important;
+    text-align: center;
+    font: normal normal normal 16 Lato;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+@media only screen and (max-width: 520px) {
+    h1.SectHeading {
+        margin-top: 50px !important;
+        font-size: 22px;
+    }
+
+}

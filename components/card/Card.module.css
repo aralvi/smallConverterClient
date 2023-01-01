@@ -1,0 +1,26 @@
+.CHeading {
+    text-align: left;
+    font: normal normal normal 18px Lato;
+    letter-spacing: 0px;
+    color: #808080;
+    opacity: 1;
+    line-height: 20px;
+}
+
+.CTitle {
+    text-align: left;
+    font: normal normal bold 20px Lato;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    line-height: 30px;
+}
+
+.CText {
+    text-align: left;
+    font: normal normal normal 14px Lato;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    line-height: 30px;
+}
